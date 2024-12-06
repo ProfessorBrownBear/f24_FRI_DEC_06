@@ -1,5 +1,7 @@
 # f24_FRI_DEC_06
 
+# this change was made on local client 10:06 am
+
 ## Peter Sigurdson C3333
 
 ### This is to demonstrate the process of git pull and git push
